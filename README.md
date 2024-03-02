@@ -18,10 +18,12 @@ pip install streamlit sounddevice scipy whisper numpy
 ```
 streamlit run brise.py
 ```
+
 A breeze!
 
 
-NB. You might need to 
+
+NB. If tou encounter an issue, you might need to 
 - Install download and install Homebrew (https://brew.sh/)
 - Then install PortAudio
 ```
