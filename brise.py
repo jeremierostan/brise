@@ -10,7 +10,7 @@ if 'recording' not in st.session_state:
 def start_recording():
     st.session_state.recording = True
     st.write("Recording started... Click 'Stop' to end.")
-    return sd.rec(int(10 * 44100), samplerate=44100, channels=1, dtype='float64', blocking=False)
+    return sd.rec(int(120 * 44100), samplerate=44100, channels=1, dtype='float64', blocking=False)
 
 def stop_recording(recording):
     st.session_state.recording = False
