@@ -24,7 +24,7 @@ A breeze!
 
 
 
-NB. If tou encounter an issue, you might need to 
+NB. If you encounter an issue, you might need to 
 - Install download and install Homebrew (https://brew.sh/)
 - Then install PortAudio
 ```
