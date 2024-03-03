@@ -1,5 +1,6 @@
 # 🗣️Brise
 _A simple speech-to-text streamlit app_
+
 This app is part of the "5mn Series", a nano-training program by Jérémie Rostan and Pascal Vallet demonstrating the myriad ways in which AI technologies can help enhance school leadership.
 In line with the SAMR model, AI integration can help school leaders be more efficient, effective, and innovative. An example would be using AI to transcribe voice recordings, then process and even share them in some way - whether it is sending high-quality feedback aligned with a school's unique philosophy after a class observation, distributing action items after a meeting, or whatever it might be.
 This is the focus of Month 1, with Week 1 looking specifically at speech-to-text technologies. In this series, Jérémie and Pascal present both simple paid options, such as Audiopen, and more advanced but free open source alternatives. This is where **🗣️Brise** comes in. 
